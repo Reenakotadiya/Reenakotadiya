@@ -32,6 +32,7 @@ I'm a **Quality Analyst** from India with a background in **web development**. I
 
 | Project | Description |
 |---|---|
+| 🩺 [site-health-checker](https://github.com/Reenakotadiya/site-health-checker) | **Open-source CLI tool:** audits any website for broken links, slow pages, missing alt text, redirect chains and missing titles, with an HTML report |
 | ✅ [selenium-python-framework](https://github.com/Reenakotadiya/selenium-python-framework) | Selenium + Python + Pytest framework (Page Object Model, HTML reports, CI with GitHub Actions) |
 | ✅ [robot-framework-demo](https://github.com/Reenakotadiya/robot-framework-demo) | Robot Framework UI (SeleniumLibrary) and API (RequestsLibrary) tests, keyword- and data-driven, with CI |
 
