@@ -11,8 +11,8 @@ I'm a **Quality Analyst** from India with a background in **web development**. I
 ### 🧪 What I Do
 
 - **Manual testing:** functional, regression, smoke, UI/UX and cross-browser testing
-- **Test automation:** building UI automation suites for web applications
-- **API testing:** validating REST APIs, responses and edge cases
+- **Test automation:** building UI automation frameworks with Selenium (Python), Robot Framework and Playwright
+- **API testing:** manual and automated REST API testing, including responses, status codes and edge cases
 - **Bug reporting:** clear, reproducible bug reports with steps, evidence and impact
 - **Test planning:** test cases, test scenarios and test strategy documents
 
@@ -20,8 +20,10 @@ I'm a **Quality Analyst** from India with a background in **web development**. I
 
 ### 🛠️ Tools & Technologies
 
-**Testing:** Playwright · Selenium · Postman · JIRA
-**Languages:** JavaScript · HTML · CSS
+**Automation:** Selenium · Robot Framework · Playwright
+**API Testing:** Postman · REST API automation
+**Languages:** Python · JavaScript · HTML · CSS
+**Project Tools:** JIRA
 **Other:** Git · GitHub · Chrome DevTools · Agile/Scrum
 
 ---
