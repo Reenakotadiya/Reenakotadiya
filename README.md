@@ -32,7 +32,7 @@ I'm a **Quality Analyst** from India with a background in **web development**. I
 
 | Project | Description |
 |---|---|
-| 🚧 `playwright-automation-demo` | End-to-end UI automation framework using Playwright (coming soon) |
+| ✅ [selenium-python-framework](https://github.com/Reenakotadiya/selenium-python-framework) | Selenium + Python + Pytest framework (Page Object Model, HTML reports, CI with GitHub Actions) |
 
 ---
 
