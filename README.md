@@ -4,7 +4,7 @@
 
 I'm a **Quality Analyst** from India with a background in **web development**. I help teams ship reliable software through careful manual testing and clean, maintainable test automation.
 
-💼 **Open to freelance work:** test automation setup, regression suites, API testing and QA for web apps.
+🌱 **Currently:** building open-source tools for test automation and web accessibility.
 
 ---
 
@@ -43,7 +43,7 @@ I'm a **Quality Analyst** from India with a background in **web development**. I
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reena%20Kotadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reena-kotadiya-1a7073170)
 [![X](https://img.shields.io/badge/X-@ReenaKotadiya-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ReenaKotadiya)
 
-📩 Looking for a QA or automation freelancer? Message me on LinkedIn.
+📩 Always happy to connect with fellow QA and automation engineers.
 
 ---
 
